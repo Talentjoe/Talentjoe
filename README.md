@@ -12,6 +12,10 @@ you are welcome to visit my persional blog, https://blog.talentjoe.fun/.
   <a href = "https://github.com/Talentjoe/VpetChatWithOllama">
   <img align = "center" height="100em" src = "https://github-readme-stats.vercel.app/api/pin/?username=talentjoe&repo=VpetChatWithOllama" alt="kirisamevanilla" />
   </a>
+  
+  <a href = "https://github.com/Talentjoe/PicTimeMachine">
+  <img align = "center" height="100em" src = "https://github-readme-stats.vercel.app/api/pin/?username=talentjoe&repo=PicTimeMachine" alt="kirisamevanilla" />
+  </a>
 </div>
 <!--
 **Talentjoe/Talentjoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
