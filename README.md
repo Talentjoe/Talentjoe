@@ -9,7 +9,7 @@ you are welcome to visit my persional blog, https://blog.talentjoe.fun/.
 </div>
 
 <div align="center">
-  <a herf = "https://github.com/Talentjoe/VpetChatWithOllama">
+  <a href = "https://github.com/Talentjoe/VpetChatWithOllama">
   <img align = "center" height="100em" src = "https://github-readme-stats.vercel.app/api/pin/?username=talentjoe&repo=VpetChatWithOllama" alt="kirisamevanilla" />
   </a>
 </div>
